@@ -4,7 +4,7 @@ import time
 print("Hello to Guess The Number game")
 time.sleep(5)
 print("Give me few seconds. I will draw a number")
-x = random.randint(0,100) #Draws a number
+x = random.randint(1,100) #Draws a number
 time.sleep(10)
 
 print("I have select my number. Now try to guess it")
